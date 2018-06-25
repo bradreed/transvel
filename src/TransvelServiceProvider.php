@@ -1,13 +1,13 @@
 <?php
 
-namespace Vijaytupakula\Transvel;
+namespace Bradreed\Transvel;
 
 use Illuminate\Support\ServiceProvider;
 
 class TransvelServiceProvider extends ServiceProvider
 {
      protected $commands = [
-        'Vijaytupakula\Transvel\Translate',
+        'Bradreed\Transvel\Translate',
     ];
 
     /**
