@@ -1,6 +1,6 @@
 <?php
 
-namespace Vijaytupakula\Transvel;
+namespace Bradreed\Transvel;
 
 use Dedicated\GoogleTranslate\Translator;
 use Illuminate\Console\Command;
