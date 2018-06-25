@@ -2,7 +2,7 @@
     "name": "bradreed/transvel",
     "description": "Automtatic translation using google api for laravel",
     "require": {
-        "bradreed/googleTranslate": "^1.0",
+        "bradreed/google-translate": "^1.0",
         "illuminate/support": "^5.2"
     },
     "autoload": {
