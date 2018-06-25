@@ -1,5 +1,5 @@
 {
-    "name": "vijaytupakula/transvel",
+    "name": "bradreed/transvel",
     "description": "Automtatic translation using google api for laravel",
     "require": {
         "bradreed/googleTranslate": "^1.0",
